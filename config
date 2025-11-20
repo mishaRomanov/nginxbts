@@ -1,0 +1,3 @@
+ngx_module_name=ngx_foo_module
+ngx_module_type=NGX_HTTP_MODULE
+ngx_module_srcs="$ngx_addon_dir/ngx_foo_module.c"gx_addon_name=ngx_config_modifier_module
